@@ -58,8 +58,8 @@ A `SessionStart` hook also reminds you about unfinished plans and pending ideas 
 Requirements: [Claude Code](https://claude.com/claude-code), `git`, `jq`, macOS or Linux (bash).
 
 ```bash
-git clone https://github.com/ClarkeLi/concerto.git
-cd concerto
+git clone https://github.com/ClarkeLi/Concerto.git
+cd Concerto
 ./install.sh
 ```
 

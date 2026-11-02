@@ -60,8 +60,8 @@ Concerto 把 [Claude Code](https://claude.com/claude-code) 变成一条自动、
 前提：[Claude Code](https://claude.com/claude-code)、`git`、`jq`，macOS 或 Linux（bash）。
 
 ```bash
-git clone https://github.com/ClarkeLi/concerto.git
-cd concerto
+git clone https://github.com/ClarkeLi/Concerto.git
+cd Concerto
 ./install.sh
 ```
 
